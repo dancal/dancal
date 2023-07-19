@@ -13,31 +13,26 @@
 <span><img src="https://img.shields.io/badge/jQuery-0769ad?style=flat&logo=jquery&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next-dot-js&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=next-dot-js&logoColor=white"/></span>
-<br/>
 
 - Backend :
 <span><img src="https://img.shields.io/badge/php-3178C6?style=flat&logo=php&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Python-3776AB?style&logo=Python&logoColor=white"/></span>
-<br/>
 
-- Databases
-<span><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/></span>
+- Databases : <span><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/aerospike-EA2328?style=for-the-badge&logo=aerospike&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/></span><br/>
 <span><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/oracle-EA2328?style=for-the-badge&logo=oracle&logoColor=white"/></span>
-<br>
  
 - Mobile App : <span><img src="https://img.shields.io/badge/xcode-147EFB?style=flat&logo=xcode&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/React Native-61dafb?style=flat&logo=react&logoColor=white"/></span>
 
-<br/>
 
 - Deployment : <span><img src="https://img.shields.io/badge/AWS-232f3e?style=flat&logo=amazon-aws&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Netlify-00c7b7?style=flat&logo=netlify&logoColor=white"/></span>
