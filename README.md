@@ -17,8 +17,8 @@
 
 
 - Backend :
-<span><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)"/></span>
-<span><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Django-092e20?style=flat&logo=django&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/></span>
