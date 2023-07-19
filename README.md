@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=dancal&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)
 ![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=dancal&layout=compact&theme=dracula)
-![wakatime stats](https://github-readme-stats.vercel.app/api/dancal?username=ffflabs)](https://github.com/dancal/github-readme-stats)
+![wakatime stats](https://github-readme-stats.vercel.app/api/dancal?username=ffflabs)
 
 ## 🔨 Technology Stacks
 - Frontend : <span><img src="https://img.shields.io/badge/php-3178C6?style=flat&logo=php&logoColor=white"/></span>
