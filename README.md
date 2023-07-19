@@ -55,6 +55,14 @@
 </div>
 
 <div align="left">
+ <div>Client Application</div>
+ <div>
+  <span><img src="https://img.shields.io/badge/delphi-EE1F35?style=flat&logo=delphi&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/visualstudio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/></span>
+ </div>
+</div>
+
+<div align="left">
  <div>Mobile App</div>
  <div>
   <span><img src="https://img.shields.io/badge/xcode-147EFB?style=flat&logo=xcode&logoColor=white"/></span>
