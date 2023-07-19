@@ -4,7 +4,7 @@
 ![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=dancal&layout=compact&theme=dracula)
 
 ## 🔨 Technology Stacks
-- Frontend : <span><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)"/></span>
+- Frontend : <span><img src="https://img.shields.io/badge/php-3178C6?style=flat&logo=php&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat&logo=css3&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/JavaScript-dbab09?style=flat&logo=javascript&logoColor=white"/></span>
