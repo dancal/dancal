@@ -4,7 +4,8 @@
 ![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=dancal&layout=compact&theme=dracula)
 
 ## 🔨 Technology Stacks
-- Frontend : <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
+- Frontend : <span><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)"/></span>
+<span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat&logo=css3&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/JavaScript-dbab09?style=flat&logo=javascript&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/></span>
@@ -16,6 +17,7 @@ span><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=nex
 
 
 - Backend :
+<span><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)"/></span>
 <span><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Django-092e20?style=flat&logo=django&logoColor=white"/></span>
