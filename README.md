@@ -40,7 +40,8 @@
   <span><img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white"/></span>
-  <span><img src="https://img.shields.io/badge/aerospike-EA2328?style=flat&logo=aerospike&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/rocksdb-2A2A2A?style=flat&logo=rocksdb&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=flat&logo=InfluxDB&logoColor=white"/></span>
@@ -66,6 +67,7 @@
   <span><img src="https://img.shields.io/badge/AWS-232f3e?style=flat&logo=amazon-aws&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/googlecloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/></span>
+  <span><img src="https://img.shields.io/badge/ansible-EE0000?style=flat&logo=ansible&logoColor=white"/></span>
  </div>
 </div>
 
