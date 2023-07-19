@@ -3,6 +3,36 @@
 ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=dancal&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)
 ![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=dancal&layout=compact&theme=dracula)
 
+  <p align="center">
+    <a href="https://github.com/dancal/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/dancal/github-readme-stats/workflows/Test/badge.svg" />
+    </a>
+    <a href="https://github.com/dancal/github-readme-stats/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/dancal/github-readme-stats" />
+    </a>
+    <a href="https://codecov.io/gh/dancal/github-readme-stats">
+      <img alt="Tests Coverage" src="https://codecov.io/gh/dancal/github-readme-stats/branch/master/graph/badge.svg" />
+    </a>
+    <a href="https://github.com/dancal/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/dancal/github-readme-stats?color=0088ff" />
+    </a>
+    <a href="https://github.com/dancal/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/dancal/github-readme-stats?color=0088ff" />
+    </a>
+    <a href="https://securityscorecards.dev/viewer/?uri=github.com/dancal/github-readme-stats">
+      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/dancal/github-readme-stats/badge" />
+    </a>
+    <br />
+    <br />
+    <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
+      <img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
+    </a>
+    <a href="https://a.paddle.com/v2/click/16413/119403?link=2345">
+      <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
+    </a>
+  </p>
+
+
 ## 🔨 Technology Stacks
 - Frontend : <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat&logo=css3&logoColor=white"/></span>
