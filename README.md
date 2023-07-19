@@ -2,7 +2,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=dancal&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)
 ![Top Langs](https://github-readme-stats-sand-six-91.vercel.app/api/top-langs/?username=dancal&layout=compact&theme=dracula)
-![wakatime stats](https://github-readme-stats.vercel.app/api/dancal?username=ffflabs)
 
 ## 🔨 Technology Stacks
 - Frontend : <span><img src="https://img.shields.io/badge/php-3178C6?style=flat&logo=php&logoColor=white"/></span>
@@ -31,11 +30,12 @@
 <span><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/aerospike-EA2328?style=for-the-badge&logo=aerospike&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white"/></span>
-<span><img src=""/></span>
+
 <span><img src=""/></span>
 
 
